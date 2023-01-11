@@ -1,21 +1,21 @@
 
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 #team {
-    background: #eee !important;
+    background:lightgrey !important;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #108d6f;
-    border-color: #108d6f;
+    background-color: mediumpurple;
+    border-color: mediumpurple;
     box-shadow: none;
     outline: none;
 }
 
 .btn-primary {
     color: #fff;
-    background-color: #007b5e;
-    border-color: #007b5e;
+    background-color: mediumpurple;
+    border-color: mediumpurple;
 }
 
 section {
@@ -24,7 +24,7 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: mediumpurple;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
@@ -113,12 +113,12 @@ section .section-title {
 
 .backside .card a {
     font-size: 18px;
-    color: #007b5e !important;
+    color: mediumpurple !important;
 }
 
 .frontside .card .card-title,
 .backside .card .card-title {
-    color: #007b5e !important;
+    color: mediumpurple !important;
 }
 
 .frontside .card .card-body img {
