@@ -44,6 +44,60 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+
+table,
+td {
+  border: 1px solid mediumpurple;
+
+
+}
+
+thead,
+tfoot {
+  background-color: mediumpurple;
+  color: #fff;
+
+
+}
+
+.roster {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10cm;
+  text-align: center;
+}
+
+.schedule{
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  text-align: center;
+  padding: 5em;
+}
+
+.fit-picture{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.container18{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.teaminfo{
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+
+
 *,
 *::before,
 *::after {
